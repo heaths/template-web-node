@@ -4,7 +4,7 @@ This is a template for a simple [Node.js](https://nodejs.org) application servin
 
 ## Setup
 
-1. Create new repository from template, ideally named `<username>.github.io`.
+1. Create new repository from template, ideally named `<username>.github.io`. You can also click <https://github.com/heaths/template-web-node/generate>.
 2. Run `npm install` to install required modules.
 3. In [Visual Studio Code](https://code.visualstudio.com), press `Ctrl+F5` to launch without debugging, or run `node server.js`.
 
