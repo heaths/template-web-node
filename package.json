@@ -1,0 +1,24 @@
+{
+  "name": "template-web-node",
+  "version": "0.1.0",
+  "description": "Template for simple static web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "homepage": "https://github.com/heaths/template-web-node#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heaths/template-web-node.git"
+  },
+  "author": "Heath Stewart",
+  "url": "https://heaths.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heaths/template-web-node/issues"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
